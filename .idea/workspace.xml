@@ -1,0 +1,1140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="50a51bb5-7d7d-428f-a787-6d0d8f55b4df" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/weixin/target/" />
+    <ignored path="$PROJECT_DIR$/test/target/" />
+    <ignored path="$PROJECT_DIR$/wzdq/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/weixinDemo$Test.ic" NAME="Test Coverage Results" MODIFIED="1538046644140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>team.redrock.weixin.util.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1566462865">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="15" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="2" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="class" value="2" />
+          <entry key="dummy" value="7" />
+          <entry key="java" value="9691" />
+          <entry key="xml" value="141" />
+          <entry key="yml" value="458" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="JAVA" value="9691" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="XML" value="141" />
+          <entry key="YAML" value="458" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="17" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="155" />
+          <entry key="xml" value="25" />
+          <entry key="yml" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="17" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="155" />
+          <entry key="XML" value="25" />
+          <entry key="YAML" value="13" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/dao/Dao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/service/impl/IServiceImp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#717#718#0" expanded="true" />
+                <element signature="e#765#766#0" expanded="true" />
+                <element signature="e#926#927#0" expanded="true" />
+                <element signature="e#974#975#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/controller/control.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="825">
+              <caret line="74" column="15" selection-start-line="74" selection-start-column="15" selection-end-line="74" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/util/ImitateLogin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="705">
+              <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/util/ReptileUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/vo/Record.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+              <folding>
+                <element signature="e#1718#1719#0" expanded="true" />
+                <element signature="e#1744#1745#0" expanded="true" />
+                <element signature="e#1782#1783#0" expanded="true" />
+                <element signature="e#1812#1813#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/service/HttpClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/service/Service.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/util/Util.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="53" column="27" selection-start-line="53" selection-start-column="27" selection-end-line="53" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/service/IService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>http</find>
+      <find>dru</find>
+      <find>Service</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin</dir>
+      <dir>$PROJECT_DIR$/test/src/main/java</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/zycx" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/config/WeixinConfig.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/weixin/src/main/java/controller/AbstractBaseController.java" />
+        <option value="$PROJECT_DIR$/weixin/src/main/java/controller/index.java" />
+        <option value="$PROJECT_DIR$/weixin/src/main/java/StartSpringBootMain.java" />
+        <option value="$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/config/DruidConfig.java" />
+        <option value="$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/controller/testServlet.java" />
+        <option value="$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/util/JsonUtils.java" />
+        <option value="$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/util/WechatUtil.java" />
+        <option value="$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/config/WeixinConfig.java" />
+        <option value="$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/util/Reptile.java" />
+        <option value="$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/controller/index.java" />
+        <option value="$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/StartSpringBootMain.java" />
+        <option value="$PROJECT_DIR$/weixin/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/util/JsonResponse.java" />
+        <option value="$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/util/util.java" />
+        <option value="$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/util/CardVerify.java" />
+        <option value="$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/TEST.java" />
+        <option value="$PROJECT_DIR$/test/src/main/java/team/redrock/test/StartSpringBootMain.java" />
+        <option value="$PROJECT_DIR$/test/src/main/java/team/redrock/test/controller.java" />
+        <option value="$PROJECT_DIR$/test/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/test/pom.xml" />
+        <option value="$PROJECT_DIR$/wzdq/pom.xml" />
+        <option value="$PROJECT_DIR$/wzdq/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/wzdq/src/main/java/team/redrock/wzdq/vo/WebSite.java" />
+        <option value="$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/util/KeyUtil.java" />
+        <option value="$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/service/HttpClient.java" />
+        <option value="$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/util/HttpClientLogin.java" />
+        <option value="$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/vo/JsonResponse.java" />
+        <option value="$PROJECT_DIR$/weixin/src/test/java/cn/mldn/microboot/test/TestDataSource.java" />
+        <option value="$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/vo/Record.java" />
+        <option value="$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/vo/Response.java" />
+        <option value="$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/util/Test.java" />
+        <option value="$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/vo/User.java" />
+        <option value="$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/util/ReptileUtil.java" />
+        <option value="$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/util/Util.java" />
+        <option value="$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/dao/Dao.java" />
+        <option value="$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/service/IService.java" />
+        <option value="$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/service/impl/IServiceImp.java" />
+        <option value="$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/service/Service.java" />
+        <option value="$PROJECT_DIR$/weixin/pom.xml" />
+        <option value="$PROJECT_DIR$/weixin/src/test/java/cn/mldn/microboot/test/TestDeptService.java" />
+        <option value="$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/controller/control.java" />
+        <option value="$PROJECT_DIR$/weixin/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/util/PictureMain.java" />
+        <option value="$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/util/ImitateLogin.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="pluginUpdatePolicy" value="UPDATE" />
+        <option name="usePluginRegistry" value="true" />
+        <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="microboot" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="microboot-mybatis" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="microboot-mybatis" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="709" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="weixinDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weixinDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weixinDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weixinDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="weixin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weixinDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weixinDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="weixin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weixinDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weixinDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="weixin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weixinDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weixinDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="weixin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weixinDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weixinDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="weixin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="team" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weixinDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weixinDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="weixin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="team" type="462c0819:PsiDirectoryNode" />
+              <item name="redrock" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weixinDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weixinDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="weixin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="team" type="462c0819:PsiDirectoryNode" />
+              <item name="redrock" type="462c0819:PsiDirectoryNode" />
+              <item name="weixin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weixinDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weixinDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="weixin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="team" type="462c0819:PsiDirectoryNode" />
+              <item name="redrock" type="462c0819:PsiDirectoryNode" />
+              <item name="weixin" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weixinDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weixinDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="weixin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="team" type="462c0819:PsiDirectoryNode" />
+              <item name="redrock" type="462c0819:PsiDirectoryNode" />
+              <item name="weixin" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weixinDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weixinDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="weixin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="team" type="462c0819:PsiDirectoryNode" />
+              <item name="redrock" type="462c0819:PsiDirectoryNode" />
+              <item name="weixin" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weixinDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weixinDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="weixin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="team" type="462c0819:PsiDirectoryNode" />
+              <item name="redrock" type="462c0819:PsiDirectoryNode" />
+              <item name="weixin" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weixinDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weixinDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="weixin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="team" type="462c0819:PsiDirectoryNode" />
+              <item name="redrock" type="462c0819:PsiDirectoryNode" />
+              <item name="weixin" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weixinDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weixinDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="weixin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weixinDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weixinDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="weixin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weixinDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weixinDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="weixin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weixinDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weixinDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="weixin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weixinDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weixinDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="weixin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="mldn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weixinDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weixinDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="weixin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="mldn" type="462c0819:PsiDirectoryNode" />
+              <item name="microboot" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538880675721" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.6137931" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="team.redrock.weixin.util" />
+      <recent name="team.redrock.test" />
+      <recent name="team.redrock.weixin.vo" />
+      <recent name="team.redrock.weixin.controller" />
+      <recent name="team.redrock.weixin.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/weixin/src/test/java" />
+      <recent name="$PROJECT_DIR$/weixin/src/main/resources" />
+      <recent name="$PROJECT_DIR$/test/src/main" />
+      <recent name="$PROJECT_DIR$/weixin/src/main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.StartSpringBootMain">
+    <configuration name="HttpClientLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="team.redrock.weixin.util.HttpClientLogin" />
+      <module name="cxzy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="team.redrock.weixin.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="team.redrock.weixin.util.Test" />
+      <module name="cxzy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="team.redrock.weixin.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDataSource" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cxzy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.mldn.microboot.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.mldn.microboot.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.mldn.microboot.test.TestDataSource" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDeptService.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cxzy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.mldn.microboot.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.mldn.microboot.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.mldn.microboot.test.TestDeptService" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDeptService.testList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cxzy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.mldn.microboot.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.mldn.microboot.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.mldn.microboot.test.TestDeptService" />
+      <option name="METHOD_NAME" value="testList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartSpringBootMain (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="team.redrock.test.StartSpringBootMain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartSpringBootMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cxzy" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="team.redrock.weixin.StartSpringBootMain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.StartSpringBootMain" />
+      <item itemvalue="Spring Boot.StartSpringBootMain (1)" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.HttpClientLogin" />
+      <item itemvalue="JUnit.TestDataSource" />
+      <item itemvalue="JUnit.TestDeptService.testList" />
+      <item itemvalue="JUnit.TestDeptService.testAdd" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestDeptService.testAdd" />
+        <item itemvalue="JUnit.TestDeptService.testList" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="JUnit.TestDataSource" />
+        <item itemvalue="Application.HttpClientLogin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50a51bb5-7d7d-428f-a787-6d0d8f55b4df" name="Default Changelist" comment="" />
+      <created>1537169425362</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537169425362</updated>
+      <workItem from="1537169432248" duration="253000" />
+      <workItem from="1537170585188" duration="7975000" />
+      <workItem from="1537188038074" duration="7970000" />
+      <workItem from="1537434527513" duration="83000" />
+      <workItem from="1537434629382" duration="1035000" />
+      <workItem from="1537435787739" duration="1077000" />
+      <workItem from="1537436895109" duration="101000" />
+      <workItem from="1537437598462" duration="664000" />
+      <workItem from="1537438397786" duration="28000" />
+      <workItem from="1537438451018" duration="28281000" />
+      <workItem from="1537713377363" duration="1763000" />
+      <workItem from="1537716740643" duration="5261000" />
+      <workItem from="1537785949807" duration="21000" />
+      <workItem from="1537786001682" duration="63291000" />
+      <workItem from="1538881043909" duration="1867000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestDeptService_testAdd - 2018.09.29 at 17h 39m 04s.xml">
+      <configuration name="TestDeptService.testAdd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDeptService_testAdd - 2018.09.29 at 18h 24m 32s.xml">
+      <configuration name="TestDeptService.testAdd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDeptService_testAdd - 2018.09.29 at 18h 27m 40s.xml">
+      <configuration name="TestDeptService.testAdd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDeptService_testAdd - 2018.09.29 at 18h 27m 53s.xml">
+      <configuration name="TestDeptService.testAdd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDeptService_testAdd - 2018.09.29 at 18h 33m 36s.xml">
+      <configuration name="TestDeptService.testAdd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDeptService_testAdd - 2018.09.29 at 20h 52m 49s.xml">
+      <configuration name="TestDeptService.testAdd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDeptService_testAdd - 2018.09.29 at 20h 53m 12s.xml">
+      <configuration name="TestDeptService.testAdd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDeptService_testAdd - 2018.09.29 at 20h 53m 49s.xml">
+      <configuration name="TestDeptService.testAdd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDeptService_testAdd - 2018.09.29 at 20h 55m 47s.xml">
+      <configuration name="TestDeptService.testAdd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDeptService_testAdd - 2018.09.29 at 21h 11m 25s.xml">
+      <configuration name="TestDeptService.testAdd" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="119670000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="709" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32901135" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32901135" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3808219" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32901135" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.26171243" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/config/WeixinConfig.java" />
+    <entry file="file://$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/util/WechatUtil.java" />
+    <entry file="file://$PROJECT_DIR$/weixin/cxzy.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/util/JsonUtils.java" />
+    <entry file="file://$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/controller/testServlet.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.15/tomcat-embed-core-8.5.15.jar!/org/apache/catalina/connector/CoyoteAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4380">
+          <caret line="329" selection-start-line="329" selection-end-line="329" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/Leastnumber.java" />
+    <entry file="file://$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/util/AbstractBaseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/test/src/main/java/team/redrock/test/StartSpringBootMain.java" />
+    <entry file="file://$PROJECT_DIR$/test/src/main/java/team/redrock/test/controller.java" />
+    <entry file="file://$PROJECT_DIR$/test/src/main/webapp/WEB-INF/web.xml" />
+    <entry file="file://$PROJECT_DIR$/test/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="112" column="18" selection-start-line="112" selection-start-column="18" selection-end-line="112" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wzdq/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wzdq/src/main/java/team/redrock/wzdq/vo/WebSite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wzdq/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-httpclient/commons-httpclient/3.0/commons-httpclient-3.0.jar!/org/apache/commons/httpclient/NameValuePair.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/util/HttpClientLogin.java" />
+    <entry file="file://$PROJECT_DIR$/weixin/src/main/resources/mybatis/mapper/cn/mldn/Dept.xml" />
+    <entry file="file://$PROJECT_DIR$/weixin/src/main/resources/mybatis/mybatis.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.9.RELEASE/spring-webmvc-4.3.9.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="532" selection-start-line="532" selection-end-line="532" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.9.RELEASE/spring-webmvc-4.3.9.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="406" selection-start-line="406" selection-end-line="406" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.9.RELEASE/spring-webmvc-4.3.9.RELEASE.jar!/org/springframework/web/servlet/FrameworkServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="493" selection-start-line="493" selection-end-line="493" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.15/tomcat-embed-core-8.5.15.jar!/org/apache/catalina/core/ApplicationFilterChain.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/4.2.3.RELEASE/spring-security-web-4.2.3.RELEASE.jar!/org/springframework/security/web/access/intercept/FilterSecurityInterceptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/4.2.3.RELEASE/spring-security-web-4.2.3.RELEASE.jar!/org/springframework/security/web/access/ExceptionTranslationFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.9.RELEASE/spring-web-4.3.9.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="117" selection-start-line="117" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/util/Test.java" />
+    <entry file="file://$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/vo/Response.java" />
+    <entry file="file://$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/vo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/util/KeyUtil.java" />
+    <entry file="file://$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/util/CardVerify.java" />
+    <entry file="file://$PROJECT_DIR$/weixin/src/test/java/cn/mldn/microboot/AppTest.java" />
+    <entry file="file://$PROJECT_DIR$/weixin/src/test/java/cn/mldn/microboot/test/TestDataSource.java" />
+    <entry file="file://$PROJECT_DIR$/weixin/src/test/java/cn/mldn/microboot/test/TestDeptService.java" />
+    <entry file="file://$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/StartSpringBootMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/util/PictureMain.java" />
+    <entry file="file://$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/dao/Dao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/service/impl/IServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#717#718#0" expanded="true" />
+            <element signature="e#765#766#0" expanded="true" />
+            <element signature="e#926#927#0" expanded="true" />
+            <element signature="e#974#975#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/controller/control.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="74" column="15" selection-start-line="74" selection-start-column="15" selection-end-line="74" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/util/ImitateLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/util/ReptileUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/vo/Record.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+          <folding>
+            <element signature="e#1718#1719#0" expanded="true" />
+            <element signature="e#1744#1745#0" expanded="true" />
+            <element signature="e#1782#1783#0" expanded="true" />
+            <element signature="e#1812#1813#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/service/HttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/service/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/util/Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="53" column="27" selection-start-line="53" selection-start-column="27" selection-end-line="53" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/src/main/java/team/redrock/weixin/service/IService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>weixin:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.6137931" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.6137931" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.45753425" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.6137931" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>cxzy</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.6137931" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.fasterxml:classmate:1.3.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.6137931" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
